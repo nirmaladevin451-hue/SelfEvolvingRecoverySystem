@@ -1,0 +1,205 @@
+[
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 15.4,
+        "memory_usage": 82.4,
+        "severity": 0.78,
+        "timestamp": "2026-02-19 02:50:42.786114"
+    },
+    {
+        "error_type": "Exception",
+        "cpu_usage": 15.4,
+        "memory_usage": 81.3,
+        "severity": 0.82,
+        "timestamp": "2026-02-19 02:51:18.773504"
+    },
+    {
+        "error_type": "Exception",
+        "cpu_usage": 9.1,
+        "memory_usage": 81.5,
+        "severity": 0.87,
+        "timestamp": "2026-02-19 02:51:29.665621"
+    },
+    {
+        "error_type": "Exception",
+        "cpu_usage": 25.0,
+        "memory_usage": 81.7,
+        "severity": 0.58,
+        "timestamp": "2026-02-19 02:52:02.073015"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 33.3,
+        "memory_usage": 81.7,
+        "severity": 0.79,
+        "timestamp": "2026-02-19 02:52:09.537358"
+    },
+    {
+        "error_type": "Exception",
+        "cpu_usage": 16.7,
+        "memory_usage": 81.9,
+        "severity": 0.62,
+        "timestamp": "2026-02-19 02:52:40.850354"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 16.7,
+        "memory_usage": 81.7,
+        "severity": 0.83,
+        "timestamp": "2026-02-19 02:52:48.785783"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 16.7,
+        "memory_usage": 81.7,
+        "severity": 0.77,
+        "timestamp": "2026-02-19 02:53:33.970514"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 35.7,
+        "memory_usage": 81.7,
+        "severity": 0.63,
+        "timestamp": "2026-02-19 02:54:16.768263"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 12.5,
+        "memory_usage": 81.7,
+        "severity": 0.97,
+        "timestamp": "2026-02-19 02:54:19.962612"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 45.5,
+        "memory_usage": 81.7,
+        "severity": 0.66,
+        "timestamp": "2026-02-19 02:54:21.892174"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 28.6,
+        "memory_usage": 81.8,
+        "severity": 0.94,
+        "timestamp": "2026-02-19 02:54:23.675883"
+    },
+    {
+        "error_type": "Exception",
+        "cpu_usage": 11.1,
+        "memory_usage": 81.7,
+        "severity": 0.99,
+        "timestamp": "2026-02-19 02:54:25.745276"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 12.5,
+        "memory_usage": 81.8,
+        "severity": 0.7,
+        "timestamp": "2026-02-19 02:54:27.861839"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 75.5,
+        "memory_usage": 81.5,
+        "severity": 0.92,
+        "timestamp": "2026-02-19 02:54:58.883562"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 27.6,
+        "memory_usage": 82.3,
+        "severity": 0.85,
+        "timestamp": "2026-02-19 03:07:07.622799"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 18.5,
+        "memory_usage": 82.0,
+        "severity": 0.75,
+        "timestamp": "2026-02-19 03:07:36.680027"
+    },
+    {
+        "error_type": "Exception",
+        "cpu_usage": 19.3,
+        "memory_usage": 80.4,
+        "severity": 0.95,
+        "timestamp": "2026-02-19 03:30:18.032303"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 17.6,
+        "memory_usage": 79.6,
+        "severity": 0.86,
+        "timestamp": "2026-02-19 03:30:30.987268"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 16.5,
+        "memory_usage": 79.7,
+        "severity": 0.5,
+        "timestamp": "2026-02-19 03:30:39.388226"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 20.0,
+        "memory_usage": 78.9,
+        "severity": 0.66,
+        "timestamp": "2026-02-19 03:39:27.062440"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 17.5,
+        "memory_usage": 76.3,
+        "severity": 0.63,
+        "timestamp": "2026-02-19 03:39:56.146701"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 39.9,
+        "memory_usage": 82.2,
+        "severity": 0.39,
+        "timestamp": "2026-02-19 23:25:56.253414"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 23.9,
+        "memory_usage": 82.4,
+        "severity": 0.82,
+        "timestamp": "2026-02-19 23:26:03.078887"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 30.1,
+        "memory_usage": 79.4,
+        "severity": 0.92,
+        "timestamp": "2026-02-20 00:59:49.857915"
+    },
+    {
+        "error_type": "TimeoutError",
+        "cpu_usage": 18.7,
+        "memory_usage": 78.9,
+        "severity": 0.88,
+        "timestamp": "2026-02-20 00:59:57.934374"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 17.6,
+        "memory_usage": 78.8,
+        "severity": 0.49,
+        "timestamp": "2026-02-20 01:00:05.090201"
+    },
+    {
+        "error_type": "MemoryError",
+        "cpu_usage": 17.5,
+        "memory_usage": 78.9,
+        "severity": 0.55,
+        "timestamp": "2026-02-20 01:00:11.495225"
+    },
+    {
+        "error_type": "Exception",
+        "cpu_usage": 21.6,
+        "memory_usage": 79.6,
+        "severity": 0.33,
+        "timestamp": "2026-02-20 01:23:24.396779"
+    }
+]

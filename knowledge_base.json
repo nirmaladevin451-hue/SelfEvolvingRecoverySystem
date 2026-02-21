@@ -1,0 +1,17 @@
+{
+    "Exception": {
+        "success": 4,
+        "failure": 4,
+        "fitness": 1.3999999999999997
+    },
+    "TimeoutError": {
+        "success": 6,
+        "failure": 5,
+        "fitness": 1.7
+    },
+    "MemoryError": {
+        "success": 9,
+        "failure": 6,
+        "fitness": 2.1999999999999997
+    }
+}
